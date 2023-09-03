@@ -1,6 +1,8 @@
 # Weather Forecasting React App
 
-This Project used React for creating UI, Redux and Redux saga for state management and performing asynchronous operations like API call. 
+This Project used React for creating UI, Redux and Redux saga for state management and performing asynchronous operations like API call.
+
+Hosted website Link: https://tanu-weather-forcasting-react-app.netlify.app/
 
 In the project directory, you can run:
 
